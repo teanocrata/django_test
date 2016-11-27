@@ -2,6 +2,10 @@
 myvenv
 db.sqlite3
 .DS_Store
+local_settings.py
+
+#Heroku
+%USERPROFILE%
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
